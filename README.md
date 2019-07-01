@@ -16,7 +16,7 @@
 
 * USBコネクタ基板とケーブルは以下のように組み立てます。USBコネクタを抜くときの紐をつけておくとよい。
 
-<img src="https://github.com/akita11/PETS_USBpower/master/USBconn.jpg" width="600px">
+<img src="https://github.com/akita11/PETS_USBpower/blob/master/USBconn.jpg" width="600px">
 
 * 筐体を一旦分解します。
 
@@ -26,7 +26,7 @@
 
 * ↑の板とあわせて加工した2枚の板と交換して、再度組み立てます。↓
 
-<img src="https://github.com/akita11/PETS_USBpower/master/PETS_battery.jpg" width="600px">
+<img src="https://github.com/akita11/PETS_USBpower/blob/master/PETS_battery.jpg" width="600px">
 
 # Author
 
