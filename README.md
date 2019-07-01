@@ -4,9 +4,9 @@
 
 # 用意するもの
 
-* 筐体の板（2枚）：MDF板（厚さ2.5mm）をレーザーカッター等でカットします。（PDFとInkscape SVGで同一内容）
+* 筐体の板（2枚）：MDF板（厚さ2.5mm）をレーザーカッター等でカットします。（PETS_USBpower: PDFとInkscape SVGで同一内容）
 
-* USBコネクタ：出っ張りが少ないUSBコネクタ（基板）
+* USBコネクタ：出っ張りが少ないUSBコネクタ（基板）。USBpowerconn_gerber.zipを基盤製造サービス等で製造します（板厚は2.0mmとするか、1.6mmのものに裏面に厚紙などをはさんで厚さを調整する）
 
 * 電源ケーブル：JSTのPHコネクタ(2p)＋10cm程度のケーブル ※[aitendo](http://www.aitendo.com)で売っていることがある
 
