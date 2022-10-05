@@ -25,6 +25,10 @@
 [こちらの手順](https://github.com/akita11/PETS_USBpower/blob/master/instruction/README.md)で、PETSを分解・改造します。改造後は、普段どおりのPETSとして使用できます。
 
 
+# おまけ
+
+PETSblock_holder.{svg/pdf}をダンボール等でカットして組み立てると、PETSのブロックを保存しておくのに使えます。
+
 # Author
 
 Junichi Akita / @akita11 / akita@ifdl.jp
